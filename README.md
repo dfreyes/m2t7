@@ -1,5 +1,5 @@
 # Proyecto: Monitoreo del uso del suelo en la parroquia de San Antonio de Pichincha del Distrito Metropolitano de Quito.
-Link code: https://colab.research.google.com/drive/1Fy6JawG_sK987rU5vMYMQbKHO2xXCi9r?usp=drive_link
+Link code: [https://colab.research.google.com/drive/1Fy6JawG_sK987rU5vMYMQbKHO2xXCi9r?usp=drive_link](https://colab.research.google.com/drive/1LZeaZ97s83slYA8c_3RIlc7OmGrWLftX?usp=sharing)
 ---
 ## Preguntas orientadoras
 *   ¿Cuales son las caracteristicas del uso del suelo?
