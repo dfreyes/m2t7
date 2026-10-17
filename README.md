@@ -23,7 +23,7 @@ Modulo 2 Proyecto
 | :--- | :--- |
 | **Autor:** | Ing. Diego F. Reyes Y. |
 | **Fecha:** | octubre 2026 |
-| **Fuente de Datos:** | Capa de Plan de Uso y Gestion del Suelo de la Secretaria de Hábitat y Ordenamiento Territorial https://gobiernoabierto.quito.gob.ec/ <br> Capa de Lotes - Catastro de la Secretaria General de Planificación https://geoportal.quito.gob.ec/geoportal/descargas.php <br>  Capa de Límite de Parroquias Rurales de la Secretaria General de Planificación https://geoportal.quito.gob.ec/geoportal/descargas.php|
+| **Fuente de Datos:** | Capa de Plan de Uso y Gestion del Suelo de la Secretaria de Hábitat y Ordenamiento Territorial https://gobiernoabierto.quito.gob.ec/ <br> Capa de Lotes - Catastro de la Secretaria General de Planificación https://colab.research.google.com/drive/1LZeaZ97s83slYA8c_3RIlc7OmGrWLftX?usp=sharing|
 ---
 
 # 1. Defincion del dominio del problema
